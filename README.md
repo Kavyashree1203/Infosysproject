@@ -1,2 +1,0 @@
-# Infosysproject
-Infosys Intern project
